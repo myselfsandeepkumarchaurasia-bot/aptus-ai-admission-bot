@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Is the course online?",
+    "answer": "Yes, Aptus Academy currently offers online classes."
+  },
+  {
+    "question": "How many days are classes conducted?",
+    "answer": "Classes are conducted 3 days per week."
+  },
+  {
+    "question": "How can I take admission?",
+    "answer": "You can register through Aptus Academy and our counsellor can guide you through the admission process."
+  },
+  {
+    "question": "Do you provide career guidance?",
+    "answer": "Yes. Aptus Academy focuses on skills, career preparation and job-oriented learning."
+  },
+  {
+    "question": "Can beginners learn AI?",
+    "answer": "Yes. Beginners can start from the foundation and gradually move toward Data Analytics, Data Science, AI and Generative AI."
+  }
+]

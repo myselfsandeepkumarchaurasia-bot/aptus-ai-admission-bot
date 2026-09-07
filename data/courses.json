@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Data Analytics",
+    "duration": "3 Months",
+    "mode": "Online",
+    "price": "₹199/month",
+    "tools": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Python",
+      "Statistics"
+    ],
+    "career": [
+      "Data Analyst",
+      "Business Analyst",
+      "Reporting Analyst"
+    ]
+  },
+  {
+    "name": "Data Science",
+    "duration": "6 Months",
+    "mode": "Online",
+    "price": "₹199/month",
+    "tools": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "career": [
+      "Data Scientist",
+      "ML Engineer",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "Generative AI",
+    "duration": "3 Months",
+    "mode": "Online",
+    "price": "₹199/month",
+    "tools": [
+      "Python",
+      "LLM",
+      "Prompt Engineering",
+      "RAG",
+      "LangChain",
+      "AI Agents"
+    ],
+    "career": [
+      "GenAI Engineer",
+      "AI Engineer",
+      "AI Application Developer"
+    ]
+  },
+  {
+    "name": "AI & Machine Learning",
+    "duration": "6 Months",
+    "mode": "Online",
+    "price": "₹199/month",
+    "tools": [
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow"
+    ],
+    "career": [
+      "AI Engineer",
+      "ML Engineer",
+      "Data Scientist"
+    ]
+  }
+]
